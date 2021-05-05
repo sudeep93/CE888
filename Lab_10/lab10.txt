@@ -1,1 +1,4 @@
 
+Heart Disease Prediction
+Heroku Deployment link : https://lab10-deployment.herokuapp.com
+Lab 10 Deployed model Repository : https://github.com/sudeep93/firsttestdeployment
